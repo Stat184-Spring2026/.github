@@ -4,5 +4,5 @@ This organization serves as a place where students in Stat 184 can develop their
 
 A center element of this course is the PCIP System: Plan-Code-Improve-Polish.
 
-![PCIP Logo](pcip_logo.jpg)
+![PCIP Logo](../pcip_logo.jpg)
 
